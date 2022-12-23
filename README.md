@@ -1,4 +1,4 @@
-<h1>Hi, I'm Isadora! <br/><a href="www.linkedin.com/in/isadorads/">Web and Software Developer</a></h1>
+<h1>Hi, I'm Isadora! <br/><a href="https://www.linkedin.com/in/isadora-dos-santos/">Web and Software Developer</a></h1>
 
 <p>🔭 Currently studying a Crossplatform Application Developement training course in Girona, Spain!</p>
 <p>🌱 Learning software developement with .NET and Android Application developement, as well as web developement.</p><br>
