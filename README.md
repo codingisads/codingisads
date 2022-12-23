@@ -8,6 +8,8 @@
 
 - <b>Survey Form (freeCodeCamp Certification Project) </b>
   - [Survey Form Template (HTML & CSS)](https://github.com/codingisads/survey-form-freeCodeCamp)
+- <b>Tribute Page (freeCodeCamp Certification Project) </b>
+  - [Marie Curie's Tribute Page (HTML & CSS)](https://github.com/codingisads/tribute-page-freecodecamp)
 
 
 
