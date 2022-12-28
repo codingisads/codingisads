@@ -13,7 +13,7 @@
 - <b>Technical Documentation Page (freeCodeCamp Certification Project) </b>
   - [Technical Documentation Page (HTML & CSS)](https://github.com/codingisads/technical-documentation-page-freeCodeCamp)
 - <b>Product Landing Page (freeCodeCamp Certification Project) </b>
-  - [Sticker Workshop Landing Page (HTML & CSS)](https://github.com/codingisads/technical-documentation-page-freeCodeCamp)
+  - [Sticker Workshop Landing Page (HTML & CSS)](https://github.com/codingisads/product-landing-page-freeCodeCamp)
 
 
 <!--
