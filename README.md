@@ -10,9 +10,10 @@
   - [Survey Form Template (HTML & CSS)](https://github.com/codingisads/survey-form-freeCodeCamp)
 - <b>Tribute Page (freeCodeCamp Certification Project) </b>
   - [Marie Curie's Tribute Page (HTML & CSS)](https://github.com/codingisads/tribute-page-freecodecamp)
-- <b>Technical Documentation Page (freeCodeCamp Certification Project, on progress) </b>
+- <b>Technical Documentation Page (freeCodeCamp Certification Project) </b>
   - [Technical Documentation Page (HTML & CSS)](https://github.com/codingisads/technical-documentation-page-freeCodeCamp)
-
+- <b>Product Landing Page (freeCodeCamp Certification Project) </b>
+  - [Sticker Workshop Landing Page (HTML & CSS)](https://github.com/codingisads/technical-documentation-page-freeCodeCamp)
 
 
 <!--
