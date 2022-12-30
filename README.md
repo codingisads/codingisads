@@ -14,7 +14,8 @@
   - [Technical Documentation Page (HTML & CSS)](https://github.com/codingisads/technical-documentation-page-freeCodeCamp)
 - <b>Product Landing Page (freeCodeCamp Certification Project) </b>
   - [Sticker Workshop Landing Page (HTML & CSS)](https://github.com/codingisads/product-landing-page-freeCodeCamp)
-
+- <b>Personal Website (freeCodeCamp Certification Project) </b>
+  - [Personal Portfolio Website (HTML & CSS)](https://github.com/codingisads/product-landing-page-freeCodeCamp)
 
 <!--
 **codingisads/codingisads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
