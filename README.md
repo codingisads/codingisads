@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Isadora</h1>
+<h1 align="center">Hi 👋, I'm Isadora Dos Santos</h1>
 <h3 align="center">I'm a passionate developer from Spain. I am currently an intern working on web3 and blockchain technologies 🚀</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingisads" alt="codingisads" /></a> </p>
