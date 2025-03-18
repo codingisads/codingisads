@@ -9,4 +9,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingisads&show_icons=true&locale=en" alt="codingisads" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingisads&" alt="codingisads" /></p>
