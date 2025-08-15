@@ -1,7 +1,8 @@
 <h1 align="left">Hi 👋, I'm Isa</h1>
 
-<p>👨‍💻I am a developer specialized in .NET technologies, with experience in both frontend and backend projects. 🚀</p>
-🌟Passionate about creating *beautiful and useful* user-centered products.
+<p>
+I am a developer specialized in .NET technologies, with experience in both frontend and backend projects. 🚀
+Passionate about creating *beautiful and useful* user-centered products. Currently studying a Computer Engineering degree and aligning my work methodology to the #TechForGood and #GreenTech ♻️</p>
 
 <h3 align="left">Web</h3>
 
