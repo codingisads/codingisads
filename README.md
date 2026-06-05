@@ -6,8 +6,8 @@
 # Isa 
 
 
-### Typing code bits and solving bug crimes 🐞
-### Continuously learning, intentionally creating.
+### Typing code bits and solving bug crimes
+### 🐞
 
 <br>
 
