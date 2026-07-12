@@ -145,7 +145,7 @@ Focusing my career path and continuous learning toward **Cloud Architecture, Art
 
 | **Proficient Skills** | **Currently Developing** |
 |:---|:---|
-| Fullstack Development (.NET, Angular & React) | Cloud Architecture & Deployment (Azure) |
+| Fullstack Development (.NET, Blazor & React) | Cloud Architecture & Deployment (Azure) |
 | Relational Database Design & SQL | Data Analysis Foundations (Polars/Pandas) |
 | Software Engineering Fundamentals | Artificial Intelligence & Machine Learning Basics |
 | User-Centered UI/UX Prototyping | Advanced Math & Computing Logic |
