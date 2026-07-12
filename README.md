@@ -173,6 +173,15 @@ A native Android mobile application built to simplify weekly meal planning and r
 
 `Kotlin` `MVVM` `Firebase` `Google API` `Android Studio` · *Clean Architecture + Cloud Integration*
 
+
+## 🤖 VeriFactu RAG Chatbot
+
+**[Verifactu RAG Chatbot](https://github.com/codingisads/verifactu-RAG-chatbot)** · [![GitHub release](https://img.shields.io/badge/release-v1.0-E6A8D7?style=flat-square)](https://github.com/codingisads/verifactu-RAG-chatbot)
+
+VeriFactu RAG Chatbot bridges the gap between complex legal/technical documents and an intuitive user experience. By combining a robust vector database with Google's Gemini AI, it allows users to ask natural language questions and receive accurate, context-grounded answers.
+
+`FastAPI` `Astro` `LangChain` `Chroma DB` `Google Gemini` · *Chatbot + RAG*
+
 ---
 
 </details>
