@@ -33,7 +33,7 @@
 
 <div align="center">
 
-Developer specialized in .NET technologies · BSc in Computer Engineering (UOC) <br>
+Developer specialized in .NET technologies · BSc in Computer Engineering (UOC, in progress) <br>
 Passionate about creating *beautiful and useful* user-centered products.
 Focusing my career path and continuous learning toward **Cloud Architecture, Artificial Intelligence & Data Science**.
 
@@ -164,6 +164,16 @@ Focusing my career path and continuous learning toward **Cloud Architecture, Art
 <br>
 
 <div align="center">
+
+## ☀️ Photovoltaic Energy Forecast
+
+**[Solar Energy Forecast](https://github.com/codingisads/solar-energy-forecast)** · [![Status](https://img.shields.io/badge/status-work_in_progress-F5C26B?style=flat-square)](https://github.com/codingisads/solar-energy-forecast)
+
+Machine learning project to forecast hourly solar irradiance and PV production in Barcelona, using 18 years of historical data from **PVGIS** and **Copernicus ERA5**. It models the **Clear Sky Index** to separate the sun's predictable geometry from the weather, starting with a 48-hour horizon and aiming for 7 days.
+*Currently in progress:* data pipeline and EDA completed, feature engineering underway, modelling next.
+
+`Python` `pandas` `pvlib` `statsmodels` `Jupyter` · *Time Series + Energy Forecasting*
+
 
 ## 🍽️ Fooddie Weekly App
 
